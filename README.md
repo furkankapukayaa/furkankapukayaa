@@ -39,5 +39,5 @@ If you want to write voice communication and code with me, you can join.
 <details>
   <summary><b>👨🏽‍💻 &nbsp; Open Source Projects</b></summary>
 
- [• EvdeKAL](https://github.com/furkankapukayaa/EvdeKAL)
+ [**• EvdeKAL**](https://github.com/furkankapukayaa/EvdeKAL)
 </details>
