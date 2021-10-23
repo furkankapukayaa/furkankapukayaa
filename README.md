@@ -14,7 +14,7 @@ II'm a graduate in Computer Programming 🎓 from Kırklareli University 🏛. I
 
 Joined Github **2** years ago. 
 
-Since then I pushed **137**+ commits, opened **0**+ issues, submitted **1**+ pull requests, created **0**+ gists and contributed to **12**+ public repositories.
+Since then I pushed **152**+ commits, opened **0**+ issues, submitted **1**+ pull requests, created **0**+ gists and contributed to **12**+ public repositories.
 
 
  ### Like My Work?
