@@ -5,11 +5,13 @@
 </div>
 
 <div align="center">
+
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://furkankapukayaa.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/furkankapukayaa/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@furkankapukayaa)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/furkankapukayaa)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/furkankapukayaa/)
+
 </div>
 <img align="right" height="250" width="375" alt="" src="gifs/coder2.webp" /> 
 
