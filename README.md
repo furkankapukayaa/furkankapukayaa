@@ -99,12 +99,12 @@ Since then I pushed **152**+ commits, opened **0**+ issues, submitted **1**+ pul
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/furkankapukayaa/MVC-Proje-Kampi"><b>🚀 MVC Proje Kampı</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/furkankapukayaa/MVC-Proje-Kampi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/furkankapukayaa/MVC-Proje-Kampi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/furkankapukayaa/MVC-Proje-Kampi?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/furkankapukayaa/MVC-Proje-Kampi?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/furkankapukayaa/MVC-Proje-Kampi?style=flat-square"/></td>
+	      <td><a href="https://github.com/furkankapukayaa/MVCProjectCamp"><b>🚀 MVC Project Camp</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/furkankapukayaa/MVCProjectCamp?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/furkankapukayaa/MVCProjectCamp?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/furkankapukayaa/MVCProjectCamp?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/furkankapukayaa/MVCProjectCamp?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/furkankapukayaa/MVCProjectCamp?style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/furkankapukayaa/EvdeKal"><b>💊 Evde Kal</b></a></td>
@@ -115,12 +115,12 @@ Since then I pushed **152**+ commits, opened **0**+ issues, submitted **1**+ pul
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/furkankapukayaa/EvdeKal?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/furkankapukayaa/OtelOtomasyonu"><b>🏨 Otel Otomasyonu</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/furkankapukayaa/OtelOtomasyonu?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/furkankapukayaa/OtelOtomasyonu?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/furkankapukayaa/OtelOtomasyonu?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/furkankapukayaa/OtelOtomasyonu?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/furkankapukayaa/OtelOtomasyonu?style=flat-square"/></td>
+	      <td><a href="https://github.com/furkankapukayaa/HotelAutomation"><b>🏨 Hotel Automation</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/furkankapukayaa/HotelAutomation?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/furkankapukayaa/HotelAutomation?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/furkankapukayaa/HotelAutomation?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/furkankapukayaa/HotelAutomation?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/furkankapukayaa/HotelAutomation?style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/furkankapukayaa/TodoList"><b>📋 Todo List</b></a></td>
