@@ -1,10 +1,6 @@
+<div align="center">
+	
 ## Hey 👋, I'm [Furkan KAPUKAYA !](https://github.com/furkankapukayaa/)
-
-<div align="center">
-   <img src="gifs/ld.gif" width="600" />
-</div>
-
-<div align="center">
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://furkankapukayaa.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/furkankapukayaa/)
@@ -12,24 +8,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/furkankapukayaa)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/furkankapukayaa/)
 
-</div>
-<img align="right" height="250" width="375" alt="" src="gifs/coder2.webp" /> 
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=furkankapukayaa.furkankapukayaa&style=flat-square&color=0088cc)
 
 II'm a graduate in Computer Programming 🎓 from Kırklareli University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide 👨🏻‍💻. I'm currently into Web Development.
 
-Joined Github **2** years ago. 
-
-Since then I pushed **152**+ commits, opened **0**+ issues, submitted **1**+ pull requests, created **0**+ gists and contributed to **12**+ public repositories.
-
-
- ### Like My Work?
- <a href="mailto:furkankapukayaa@gmail.com" target="_blank"><img src="https://i.hizliresim.com/rhnggtt.png" alt="Send Mail" height="60px" width="217px" ><a>  
-
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/furkankapukayaa/furkankapukayaa/master/gifs/coder.gif" /> 
-
+</div><br>
+	 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with C#, ASP.NET, SQL, <br /> HTML, CSS, Javascript, etc.
