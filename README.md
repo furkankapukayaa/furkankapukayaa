@@ -67,7 +67,7 @@ II'm a graduate in Computer Programming 🎓 from Kırklareli University 🏛. I
 </details>
 
 <details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+  <summary><b>🚀 Open Source Projects</b></summary>
 
   <br />
   <table>
@@ -124,7 +124,7 @@ II'm a graduate in Computer Programming 🎓 from Kırklareli University 🏛. I
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> HP Elitebook</li>
+	    <li><b>Laptop: </b> HP Elitebook 820 G2</li>
 	    <li><b>Code Editor:</b> Visual Studio - Visual Studio Code </li>
 	    <li><b>To Stay Updated:</b> Youtube, Linkedin, Twitter and Medium.</li>
 	</ul>	
