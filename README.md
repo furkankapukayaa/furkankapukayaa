@@ -18,7 +18,7 @@ II'm a graduate in Computer Programming 🎓 from Kırklareli University 🏛. I
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with C#, ASP.NET, SQL, <br /> HTML, CSS, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🚀 &nbsp; I’m currently learning Full Stack Web Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/furkankapukayaa?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://t.me/furkankapukaya)! I am happy to help.
 - 📫 &nbsp; How to reach me: furkankapukayaa@gmail.com.
@@ -116,6 +116,31 @@ II'm a graduate in Computer Programming 🎓 from Kırklareli University 🏛. I
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/furkankapukayaa/TodoList?style=flat-square"/></td>
          <td><img alt="Language" src="https://img.shields.io/github/languages/top/furkankapukayaa/TodoList?style=flat-square"/></td> 
       </tr>
+      <tr>
+	     <td><a href="https://github.com/furkankapukayaa/TodoList"><b>⏱️ Shuttime</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/furkankapukayaa/Shuttime?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/furkankapukayaa/Shuttime?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/furkankapukayaa/Shuttime?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/furkankapukayaa/Shuttime?style=flat-square"/></td>
+         <td><img alt="Language" src="https://img.shields.io/github/languages/top/furkankapukayaa/Shuttime?style=flat-square"/></td> 
+      </tr>
+      <tr>
+	     <td><a href="https://github.com/furkankapukayaa/TodoList"><b>🔣 QR Code Generation</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/furkankapukayaa/QRCodeGeneration?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/furkankapukayaa/QRCodeGeneration?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/furkankapukayaa/QRCodeGeneration?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/furkankapukayaa/QRCodeGeneration?style=flat-square"/></td>
+         <td><img alt="Language" src="https://img.shields.io/github/languages/top/furkankapukayaa/QRCodeGeneration?style=flat-square"/></td> 
+      </tr>
+       <tr>
+	     <td><a href="https://github.com/furkankapukayaa/RealEstateOffice"><b>🏙 Real Estate Office</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/furkankapukayaa/RealEstateOffice?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/furkankapukayaa/RealEstateOffice?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/furkankapukayaa/RealEstateOffice?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/furkankapukayaa/RealEstateOffice?style=flat-square"/></td>
+         <td><img alt="Language" src="https://img.shields.io/github/languages/top/furkankapukayaa/RealEstateOffice?style=flat-square"/></td> 
+      </tr>
+	   
     </tbody>
   </table>
   <br />
