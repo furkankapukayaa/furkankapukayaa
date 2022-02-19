@@ -4,7 +4,6 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://furkankapukayaa.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/furkankapukayaa/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@furkankapukayaa)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/furkankapukayaa)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/furkankapukayaa/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-ff0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCwBs0J59FuWuStJIcgFgm5Q)	
@@ -20,7 +19,6 @@ II'm a graduate in Computer Programming 🎓 from Kırklareli University 🏛. I
 - 🛠 &nbsp; I’m currently working with C#, ASP.NET, SQL, <br /> HTML, CSS, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Web Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/furkankapukayaa?tab=repositories).
-- 💬 &nbsp; Ask me about anything [here](https://t.me/furkankapukaya)! I am happy to help.
 - 📫 &nbsp; How to reach me: furkankapukayaa@gmail.com.
 - 🤙 &nbsp; Let's meet: [Superpeer](https://superpeer.com/furkankapukaya).
 - 📝 &nbsp; Checkout my [Resume](https://furkankapukayaa.github.io/assets/Resume.pdf).
