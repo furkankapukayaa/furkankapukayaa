@@ -151,7 +151,7 @@ II'm a graduate in Computer Programming 🎓 from Kırklareli University 🏛. I
   	    <li><b>OS:</b> Windows 10</li>
 	    <li><b>Laptop: </b> HP Elitebook 820 G2</li>
 	    <li><b>Code Editor:</b> Visual Studio - Visual Studio Code </li>
-	    <li><b>To Stay Updated:</b> Youtube, Linkedin, Twitter and Medium.</li>
+	    <li><b>To Stay Updated:</b> Medium, Twitter, Youtube and Linkedin.</li>
 	</ul>	
 </details>
 
