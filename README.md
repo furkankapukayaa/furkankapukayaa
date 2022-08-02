@@ -138,7 +138,6 @@ II'm a graduate in Computer Programming 🎓 from Kırklareli University 🏛. I
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/furkankapukayaa/RealEstateOffice?style=flat-square"/></td>
          <td><img alt="Language" src="https://img.shields.io/github/languages/top/furkankapukayaa/RealEstateOffice?style=flat-square"/></td> 
       </tr>
-	   
     </tbody>
   </table>
   <br />
