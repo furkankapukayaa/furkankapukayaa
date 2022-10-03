@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=furkankapukayaa.furkankapukayaa&style=flat-square&color=0088cc)
 
-II'm a graduate in Computer Programming 🎓 from Kırklareli University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide 👨🏻‍💻. I'm currently into Web Development.
+I'm a graduate in Computer Programming from Kırklareli University. Then I won Anadolu University Management Information Systems with DGS. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide. I'm currently into Web Development.
 
 </div><br>
 	 
