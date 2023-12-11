@@ -70,7 +70,7 @@ I graduated from Kırklareli University Computer Programming, and then I earned 
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
+  	    <li><b>OS:</b> Windows 11</li>
 	    <li><b>Code Editor:</b> Visual Studio - Visual Studio Code </li>
 	    <li><b>To Stay Updated:</b> Medium, Twitter, Youtube and Linkedin.</li>
 	</ul>	
