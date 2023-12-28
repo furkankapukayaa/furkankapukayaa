@@ -1,6 +1,6 @@
 <div align="center">
 	
-## Hey 👋, I'm [Furkan KAPUKAYA !](https://github.com/furkankapukayaa/)
+## Hey 👋, I'm [Furkan KAPUKAYA !](https://furkankapukayaa.github.io/)
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://furkankapukayaa.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/furkankapukayaa/)
