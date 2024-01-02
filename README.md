@@ -4,7 +4,7 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://furkankapukayaa.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/furkankapukayaa/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/furkankapukayaa)
+[![X Badge](https://img.shields.io/badge/-X-00acee?style=flat-square&logo=X&logoColor=black)](https://x.com/furkankapukayaa)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/furkankapukayaa/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-ff0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCwBs0J59FuWuStJIcgFgm5Q)	
 
