@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=furkankapukayaa&style=flat&color=blueviolet)
 ### Glad to see you here! &nbsp;
 
-I graduated from Kırklareli University Computer Programming, and then I earned Anadolu University Management Information Systems with DGS. I am a passionate student who is always willing to learn and work across technologies and fields. I love discovering new technologies and leveraging them to solve real-life problems. I love sharing what I know with others and guiding them. Currently, I am interested in Web Development.
+I graduated from Kırklareli University Computer Programming, and then I earned Anadolu University Management Information Systems with DGS. I am a passionate student who is always willing to learn and work across technologies and fields. I love discovering new technologies and leveraging them to solve real-life problems. I love sharing what I know with others and guiding them. Currently, I am interested in web development.
 
 </div><br>
 	 
