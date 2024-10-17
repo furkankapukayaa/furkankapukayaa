@@ -1,6 +1,6 @@
 <div align="center">
 	
-## Hey 👋, I'm [Furkan KAPUKAYA !](https://furkankapukayaa.github.io/)
+## Hey 👋, I'm [Furkan KAPUKAYA](https://furkankapukayaa.github.io/)
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://furkankapukayaa.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/furkankapukayaa/)
@@ -11,13 +11,15 @@
 ![](https://komarev.com/ghpvc/?username=furkankapukayaa&style=flat&color=blueviolet)
 ### Glad to see you here! &nbsp;
 
-I graduated from Kırklareli University Computer Programming, and then I earned Anadolu University Management Information Systems with DGS. I am a passionate student who is always willing to learn and work across technologies and fields. I love discovering new technologies and leveraging them to solve real-life problems. I love sharing what I know with others and guiding them. Currently, I am interested in web development.
+I graduated from Kırklareli University with a degree in Computer Programming and later earned a degree in Management Information Systems from Anadolu University through DGS. I have 2 years of professional experience, having worked with several different companies where I gained valuable insights and skills. I am a passionate student who is always willing to learn and work across technologies and fields. I love discovering new technologies and leveraging them to solve real-life problems. I enjoy sharing my knowledge with others and guiding them. Currently, I am interested in Web Development.
+<br><br>
+As a tech enthusiast, I am dedicated to learning and working with new technologies. I am currently working with C#, .NET, SQL, HTML, CSS, JavaScript, and more. My goal is to become a Full Stack Web Developer.
 
 </div><br>
 	 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with C#, ASP.NET, SQL, <br /> HTML, CSS, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with C#, .NET, SQL, <br /> HTML, CSS, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Web Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/furkankapukayaa?tab=repositories).
 - 📫 &nbsp; How to reach me: furkankapukayaa@gmail.com.
@@ -32,21 +34,21 @@ I graduated from Kırklareli University Computer Programming, and then I earned 
 
 ### Languages and Tools:
 <div align="center">
-<img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp">
-<img height="27" src="https://i.hizliresim.com/9jf9my0.png" alt="aspnet">
-<img height="27" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="sql">
-<img height="27" src="https://i.hizliresim.com/8p71gpf.png" alt="mssql">
-<img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html">
-<img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css">
-<img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap">
-<img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript">
-<img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
-<img height="27" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github">
-<img height="27" src="https://mau.dev/uploads/-/system/project/avatar/53/gitlab.png" alt="gitlab">
-<img height="27" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="vs">
-<img height="27" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode">
-<img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/1728px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" alt="office">
-<img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">
+<img height="27" src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp">
+<img height="27" src="https://www.svgrepo.com/show/376369/dotnet.svg" alt="dotnet">
+<img height="27" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql">
+<img height="27" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql">
+<img height="27" src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html">
+<img height="27" src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css">
+<img height="27" src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="bootstrap">
+<img height="27" src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript">
+<img height="27" src="https://www.svgrepo.com/show/452210/git.svg" alt="git">
+<img height="27" src="https://www.svgrepo.com/show/450156/github.svg" alt="github">
+<img height="27" src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="gitlab">
+<img height="27" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" alt="vscode">
+<img height="27" src="https://www.svgrepo.com/show/354520/visual-studio.svg" alt="vs">
+<img height="27" src="https://www.svgrepo.com/show/303589/office-1-logo.svg" alt="office">
+<img height="27" src="https://www.svgrepo.com/show/362176/terminal.svg" alt="terminal">
 </div>
 
 ### Projects and Dev Stuffs:
